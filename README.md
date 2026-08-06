@@ -11,9 +11,9 @@
 ### 👨‍💻 Sobre mim
 
 - 📍 Maringá - PR
-- 🎯 Em evolução constante
+- 🎯 Em constante evolução
 - 🎓 Cursando Engenharia de Software
-- 💻 Foco em desenvolvimento back-end, e cyber sercutiy
+- 💻 Foco em desenvolvimento back-end, e cyber security
 
 ### 🛠️ Tecnologias & Ferramentas
 
