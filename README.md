@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=Victor%20Souza&textBg=false&section=header&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=31470b&text=Victor%20Souza&fontColor=ffff&fontSize=40&textBg=false&section=header&reversal=false&animation=twinkling" />
 </h1>
 
 <p align="center">
