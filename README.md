@@ -27,8 +27,4 @@
   <a href="https://www.linkedin.com/in/victor-de-souza-vicente-80843524a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="https://www.instagram.com/_victorsouzav?igsh=MXZzYWRxZnJsMXBzeQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
