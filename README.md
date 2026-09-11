@@ -18,7 +18,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ### 🌐 Conecte-se comigo
