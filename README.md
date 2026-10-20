@@ -13,7 +13,7 @@
 - 📍 Maringá - PR
 - 🎯 Em constante evolução
 - 🎓 Cursando Engenharia de Software
-- 💻 Foco em desenvolvimento back-end, e cyber security
+- 💻 Foco em desenvolvimento back-end Java
 
 ### 🛠️ Tecnologias & Ferramentas
 
